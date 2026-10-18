@@ -1,0 +1,5 @@
+streamlit>=1.40
+groq>=0.30
+faiss-cpu>=1.9
+fastembed>=0.5
+numpy>=1.26

@@ -1,0 +1,23 @@
+{
+  "model": "BAAI/bge-small-en-v1.5",
+  "dim": 384,
+  "chunk_count": 91,
+  "chunk_max_chars": 1100,
+  "built_at": "2026-10-17T22:58:12+00:00",
+  "files": {
+    "data/00_README_site_map_and_index.md": "ba275797b5cca74735df5a33155355de0206fd5fe83973673bcfc95753440950",
+    "data/01_about_pace_and_why_choose_pace.md": "aadb87f10746a53932a7e2e80c961e36fd29c7783c31641c0645920e27d236a8",
+    "data/02_contact_and_social_links.md": "a811b6a2e9968779b7d03db040b2e20fdf0ffb1edad1e6deef26dc575d48f146",
+    "data/03_faq.md": "c3fb16fe18a8d0c931cd349694284ebc02555e0ac89b9fbe8e3e8641d9a643d6",
+    "data/04_mock_test_quiz_make_paper_features.md": "d215d696cadbcd6950ad2117967d4261325275fd4d819b71b780bd6b17d46473",
+    "data/05_past_papers_and_departments.md": "d7aeb32c8ac4fc04c15e866f2ac11080e56d326ea609c766b90d5bf9e57e91a3",
+    "data/06_subjects_and_current_affairs_catalog.md": "2aadfb2ea18bc403806eb254699647a33ffb5083205f09500db243fcc1ce3fb4",
+    "data/07_jobs_portal_snapshot.md": "2a691b4b900440fc16d435d6dccc55af6abf9f58ad138941d45ecfa2e1f1fa82",
+    "data/08_success_stories.md": "955a1a0de83e86293ad31a4e8ca73e20945856dec8687dc0b5ca25f62c5139c6",
+    "data/09_student_testimonials_and_team.md": "fd36b6ac4879b9fc2f7683f9ed03978660955d3eda7c4e51f86fdd92c93aa6d0",
+    "data/10_articles_study_abroad_and_scholarships.md": "5e830e8e7cd3d9bd9fa78f5954476d40231d47f7471a7b0a20ad0dab6c600698",
+    "data/11_articles_english_tests_and_gre.md": "b03f5f37b37e2e0328093bf08573718d28f21c44187d893b613b1ef3fa33d581",
+    "data/12_articles_courses_certifications_and_loans.md": "73ce16989eb606eb165d7c78ce82ca225597a0ccdf222a94a8cf51ff6fd65535",
+    "data/13_policies_terms_privacy_disclaimer.md": "2e05d7e5926a2cd16488cc19165cd6473ac451f992d1a00eb816e39644045dca"
+  }
+}
